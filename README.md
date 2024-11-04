@@ -1,2 +1,2 @@
 # AtmoshpAir
-MSIAM / TSI SIGMA project tema AtmosphAir
+MSIAM / TSI SIGMA project team AtmosphAir
